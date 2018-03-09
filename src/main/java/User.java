@@ -1,5 +1,6 @@
 public class User {
     private Integer id;
+    private String name;
 
     public Integer getId() {
         return id;
